@@ -1,1 +1,1 @@
-Aquest és el primer projecte de <Gabriel> <Rodriguez> 
+Aquest és el primer projecte de Gabriel Rodriguez 
